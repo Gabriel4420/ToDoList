@@ -11,10 +11,10 @@ export class AppComponent {
   public inputValue = document.querySelector('input');
 
 
-  public items = ['item 1','item 2','item 3','item 4'];
+  public items = [''];
 
   addTask(){
-    
+
     this.items.push(this.task)
   }
 

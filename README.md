@@ -48,12 +48,12 @@ A proposta da lista de tarefas, é aprender mais sobre angular e seus presets.
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- [Dart](https://dart.dev/)
+- [Typescript](https://www.typescriptlang.org/)
 
 
 ### Dependências
 
-  - [flutter](https://flutter.dev)
+- [Angular](https://angular.io/)
 
 
 ### Padronização de código
@@ -79,7 +79,7 @@ Para copiar o projeto, utilize os comandos:
 ```
 Para instalar as dependências e iniciar o projeto, você pode utilizar o yarn ou npm:
 
-**Utilizando flutter**
+**Utilizando yarn**
 
 ```bash
   # verificar as dependências
@@ -91,7 +91,7 @@ Para instalar as dependências e iniciar o projeto, você pode utilizar o yarn o
 
 **Utilizando npm**
 
-*PS: utilize o npm get, para atualizar as dependências, tome cuidado, pois dependendo da versão da dependência, pode ser que o projeto não funcione como o esperado.*
+*PS: utilize o npm install, para atualizar as dependências, tome cuidado, pois dependendo da versão da dependência, pode ser que o projeto não funcione como o esperado.*
 
 ```bash
   # Atualizar as dependências
